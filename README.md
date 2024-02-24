@@ -1,4 +1,4 @@
-#No venv environment was used in the project. It will be necessary to create it or install missing packages locally.
+# No venv environment was used in the project. It will be necessary to create it or install missing packages locally.
 
 # Day 00 - Python Bootcamp
 
